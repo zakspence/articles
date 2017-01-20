@@ -1,0 +1,57 @@
+#blog1 {
+	font-family: 'Arsenal', sans-serif;
+	font-size: 1em;	
+	font-color: violet;
+	line-height: 1em;
+	padding: 5%;
+	border: 1px dashed tomato;
+	border-radius: 20%;
+}
+#blog2 {
+	font-family: 'Lato', sans-serif;
+	font-size: 2em;	
+	font-color: blue-green;
+	line-height: 2em;
+	padding: 10%;
+	border: 1px dashed tomato;
+	border-radius: 25%;
+}
+#blog3 {
+	font-family: 'Overpass', sans-serif;
+	font-size: 2.5em;	
+	font-color: yellow-red;
+	line-height: 2.25em;
+	padding: 12.5%;
+	border: 1px dashed tomato;
+	border-radius: 30%;
+}
+#blog4 {
+	font-family: 'Roboto', sans-serif;
+	font-size: 3em;	
+	font-color: orange-red;
+	line-height: 2.5em;
+	padding: 15%;
+	border: 1px dashed tomato;
+	border-radius: 35%;
+}
+#blog5 {
+	font-family: 'Slabo+27px', sans-serif;
+	font-size: 3.5em;	
+	font-color: indigo;
+	line-height: 4em;
+	padding: 17.5%;
+	border: 1px dashed tomato;
+	border-radius: 40%;
+}
+
+
+
+
+
+/*A different background color.
+A different font family.
+A different font size.
+A different font color.
+A different line height.
+A different padding value.
+Each should have a border, but with rounded corners of different size (e.g. one article could have barely rounded borders, but the next one could be almost circular in shape)*/
